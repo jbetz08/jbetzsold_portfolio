@@ -1,8 +1,9 @@
+import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import './components/Navigation';
-import './components/Summary';
-import './components/Skills';
+import Navigation from './components/Navigation';
+import Summary from './components/Summary';
+import Skills from './components/Skills';
 
 function App() {
   return (

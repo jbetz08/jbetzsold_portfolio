@@ -1,0 +1,14 @@
+.nav {
+    background-color: #3F3047;
+    padding: 20px;
+}
+
+.nav h4 {
+    margin: 0;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.nav-link {
+    color: #F2A359;
+}

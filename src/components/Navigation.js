@@ -5,7 +5,17 @@ import './Navigation.css';
 function Navigation() {
     return(
         <div>
-            
+            <ul class="nav justify-content-end">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Projects</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Skills</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Resumé</a>
+                </li>
+            </ul>
         </div>
     );
 }

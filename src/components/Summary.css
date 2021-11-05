@@ -1,0 +1,14 @@
+.summary {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1rem;
+    background-color: #6C5379;
+}
+
+.info {
+    grid-column: 1/2;
+}
+
+.profile-image {
+    grid-column: 2/3;
+}
