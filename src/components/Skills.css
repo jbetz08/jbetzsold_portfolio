@@ -1,0 +1,36 @@
+.skills-overview {
+    background-color: #4B3A55;
+    text-align: center;
+    padding: 20px;
+}
+
+.skills-overview h1 {
+    padding: 40px;
+    color: whitesmoke
+}
+
+.skills-pillars {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 1rem;
+    max-width: 800px;
+    margin: 0 auto;
+} 
+
+.skills-pillars h3 {
+    color: #F2A359;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
+
+i {
+    color: #F2A359;
+}
+
+li {
+    list-style-type: none;
+    color: rgba(156,163,175);
+}

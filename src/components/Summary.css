@@ -2,13 +2,32 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 1rem;
-    background-color: #6C5379;
+    background-color: #4B3A55;
 }
 
 .info {
     grid-column: 1/2;
+    text-align: center;
+    padding: 20px;
+    color: whitesmoke;
+    max-width: 500px;
+    align-items: center;
+    margin: 40px auto;
+}
+
+.info p {
+    padding: 0 20px;
+    color: rgba(156,163,175);
 }
 
 .profile-image {
     grid-column: 2/3;
+    text-align: center;
+}
+
+.profile-image img {
+    max-width: 400px;
+    padding: 20px;
+    align-items: center;
+    margin: 0 auto;
 }

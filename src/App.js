@@ -4,6 +4,7 @@ import './App.css';
 import Navigation from './components/Navigation';
 import Summary from './components/Summary';
 import Skills from './components/Skills';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Navigation />
       <Summary />
       <Skills />
+      <Footer />
     </div>
   );
 }

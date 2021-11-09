@@ -1,0 +1,22 @@
+.footer {
+    background-color: #3F3047;
+    height: 250px;
+    padding: 25px;
+}
+
+.social a {
+    margin: 1rem;
+    font-size: 1.5rem;
+}
+
+.social {
+    padding: 20px;
+    margin: 15px auto;
+    text-align: center;
+}
+
+.copyright {
+    color: rgba(156,163,175);
+    margin: 15px auto;
+    text-align: center;
+}
