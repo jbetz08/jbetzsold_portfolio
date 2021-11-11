@@ -6,6 +6,7 @@ function Skills() {
 
     return(
         <div className="skills-overview">
+            <i class="bi bi-code-slash"></i>
             <h1>Skills Summary</h1>
             <div className="skills-pillars">
 

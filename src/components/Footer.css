@@ -9,6 +9,10 @@
     font-size: 1.5rem;
 }
 
+.social i {
+    color: #98B9AB;
+}
+
 .social {
     padding: 20px;
     margin: 15px auto;

@@ -19,9 +19,19 @@ function Summary() {
                     software development and I also have interest in {info.interests}.
 
                 </p>
+                <p>
+                    <button class="btn btn-primary" type="button" data-bs-toggle="collapse.show" data-bs-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+                        Page Utilizes
+                    </button>
+                </p>
+                <div class="collapse" id="collapseExample">
+                    <div class="card card-body">
+                        Some placeholder content for the collapse component. This panel is hidden by default but revealed when the user activates the relevant trigger.
+                    </div>
+                </div>
             </div>
             <div className="profile-image">
-                <img src='./profile.JPG' alt={info.name} />
+                <img src='./profile.JPG' class="rounded mx-auto d-block" alt={info.name} />
             </div>
         </div>
     );
