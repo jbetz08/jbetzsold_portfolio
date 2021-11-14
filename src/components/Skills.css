@@ -21,7 +21,7 @@
     color: #F2A359;
 }
 
-ul {
+.skills-pillars ul {
     display: inline-block;
     text-align: left;
 }
@@ -40,4 +40,8 @@ ul {
 li {
     list-style-type: none;
     color: rgba(156,163,175);
+    padding: 10px;
+    margin: 15px auto;
+    background-color: #3F3047;
+    border-radius: 0.25rem;
 }
