@@ -1,3 +1,21 @@
+# Purpose for project:
+I wanted to create a portfolio for myself
+
+I need to fix my navigation and add a projects section.
+
+[Software Demo](https://youtu.be/hNKi0Eua2yI)
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
